@@ -1,1 +1,1 @@
-puts "Greetings people".swapcase.upcase
+puts ""
