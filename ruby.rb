@@ -1,1 +1,1 @@
-puts "Greetings people".length.downcase
+puts "Greetings people".swapcase.upcase
